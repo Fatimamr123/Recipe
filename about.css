@@ -1,0 +1,17 @@
+.about-section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fffefa;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    line-height: 1.6;
+  }
+  .about-section h1, .about-section h2 {
+    color: #ff7043;
+  }
+  .about-section ul {
+    margin-left: 20px;
+    list-style-type: disc;
+  }
+  
